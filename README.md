@@ -1,9 +1,9 @@
-# Hi there,
-I'm currently finishing my masters degree in Mathematics-Economics: **Mathematical Finance track** from [Aarhus University](https://www.au.dk/) and will be done in late December 2020. In general, my main interest is mathematical modelling with applications to finance, which is also how I structured my masters degree. Therefore, I mainly work with:
+# Hi there 😄,
+I'm currently finishing my masters degree in **Mathematics-Economics: Mathematical Finance track** from [Aarhus University](https://www.au.dk/) and will be done in late December 2020. In general, my main interest is mathematical modelling with applications to finance, which is also how I structured my masters degree. Therefore, I mainly work with:
 
 1. Pricing of exotic derivative contracts (with main emphasis on options) where the underlying follows various jump-diffusion models.
 2. Volatility modelling on financial traded products, including forecasting and comparison methods for the purpose of doing portfolio analysis and/or risk management. 
-3. Data analytics, for the purpose of transforming raw data into data visualizations and/or tools, to help organizations make more data-driven decisions.
+3. Data analytics, with the main idea of transforming raw data into data visualizations and/or tools, to help organizations make more data-driven decisions.
 
 
 
