@@ -11,10 +11,12 @@
 # ⚡ Technologies I'm familiar with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![R](https://img.shields.io/badge/-R%20language-black?style=flat-square&logo=R)
-![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=mathworks)
+![R](https://img.shields.io/badge/-R%20language-black?style=flat-square&logo=R&logoColor=75AADB)
+![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=mathworks&logoColor=0076a8)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft Office-black?style=flat-square&logo=Microsoft Office&logoColor=D83B01)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?style=flat-square&logo=Sublime%20Text)
 
 <!--
 **EdgyPanda/EdgyPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
