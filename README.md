@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there,
+## I'm a Masters degree student from Aarhus university. 
+- 🔭 I’m currently working on my master thesis until late december 2020.
+- 🌱 I mainly do statistical coding in *R* and *Matlab*, however I'm working on my *Python*. 
 
 
 <a href="https://github.com/EdgyPanda/EdgyPanda">
