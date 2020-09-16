@@ -8,7 +8,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgyPanda&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgyPanda&hide=TeX&layout=compact)
+# ⚡ Technologies I'm familiar with:
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![R](https://img.shields.io/badge/-R%20language-black?style=flat-square&logo=R)
+![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=mathworks)
 
 <!--
 **EdgyPanda/EdgyPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
