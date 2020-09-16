@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/-R%20language-black?style=flat-square&logo=R&logoColor=75AADB)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=mathworks&logoColor=0076a8)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft Office-black?style=flat-square&logo=Microsoft Office&logoColor=D83B01)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-black?style=flat-square&logo=Microsoft%20Office&logoColor=D83B01)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?style=flat-square&logo=Sublime%20Text)
 
 <!--
