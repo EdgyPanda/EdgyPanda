@@ -5,7 +5,7 @@ I'm currently finishing my masters degree in **Mathematics-Economics: Mathematic
 2. Volatility modelling on financial traded products, including forecasting and comparison methods for the purpose of doing portfolio analysis and/or risk management. 
 3. Data analytics, with the main idea of transforming raw data into data visualizations and/or tools, to help organizations make more data-driven decisions.
 
-
+However, I'm also interested in applying my knowledge elsewhere such as the insurance industry, healthcare and IT. 
 
 - 🔭 I’m currently working on my master thesis until late december 2020.
 - 🌱 I mainly do statistical coding in **R** and **Matlab**, however I'm working on becoming better at **Python**. 
@@ -24,7 +24,7 @@ I'm currently finishing my masters degree in **Mathematics-Economics: Mathematic
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=mathworks&logoColor=0076a8)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-black?style=flat-square&logo=Microsoft%20Office&logoColor=D83B01)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?style=flat-square&logo=Sublime%20Text)
-
+![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=LaTeX&logoColor=008080)
 <!--
 **EdgyPanda/EdgyPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
