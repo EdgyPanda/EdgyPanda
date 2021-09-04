@@ -1,5 +1,8 @@
 # Hi there 👋
-Recently graduated from [Aarhus University](https://www.au.dk/) with a degree in **Mathematics-Economics** specializing in **Mathematical Finance**. In general, my main interest is mathematical modelling with applications to finance, which is also how I structured my masters degree. Therefore, I have competences in:
+Graduated from [Aarhus University](https://www.au.dk/) with a degree in **Mathematics-Economics** specializing in **Mathematical Finance**. I'm currently working as a Credit Risk Modeller for a bank in Denmark. 
+
+
+In general, my main interest is mathematical modelling with applications to finance, which is also how I structured my masters degree. Therefore, I have competences in:
 
 1. Pricing of exotic derivative contracts (with main emphasis on options) where the underlying follows various structural models.
 2. Volatility modelling on financial products, including forecasting and comparison methods for the purpose of doing portfolio analysis and/or risk management. 
@@ -7,8 +10,7 @@ Recently graduated from [Aarhus University](https://www.au.dk/) with a degree in
 
 However, I'm also interested in applying my knowledge elsewhere such as the insurance industry, healthcare and IT. 
 
-- 🔭 I’m currently working on my master thesis until late december 2020.
-- 🌱 I mainly do statistical coding in **R** and **Matlab**, however I'm working on becoming better at **Python**. 
+- 🌱 I mainly do statistical coding in **R**, however I can quickly pick up **Python** if necessary. I'm curious about the relatively new and fast programming language **Julia**.  
 
 
 <a href="https://github.com/EdgyPanda/EdgyPanda">
@@ -25,6 +27,8 @@ However, I'm also interested in applying my knowledge elsewhere such as the insu
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-black?style=flat-square&logo=Microsoft%20Office&logoColor=D83B01)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?style=flat-square&logo=Sublime%20Text)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=LaTeX&logoColor=008080)
+![Julia](https://img.shields.io/badge/Julia-black?style=flat-square&logo=Julia)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-black?style=flat-square&logo=AzureDevOps&logoColor=007396)
 <!--
 **EdgyPanda/EdgyPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
