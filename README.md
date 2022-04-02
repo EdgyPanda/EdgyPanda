@@ -11,7 +11,7 @@ My main interest are:
 I'm also interested in applying my knowledge elsewhere such as the insurance industry, healthcare and IT. 
 
 
-- 🌱 My preffered language is **R**, but I also have working knowledge in **Python**.   
+- 🌱 My preffered language is **R**, but I also have working knowledge of **Python**.   
 
 
 <a href="https://github.com/EdgyPanda/EdgyPanda">
