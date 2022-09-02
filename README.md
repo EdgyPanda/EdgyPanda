@@ -29,6 +29,7 @@ I'm also interested in applying my knowledge elsewhere such as the insurance ind
 ![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=LaTeX&logoColor=008080)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-black?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-black?style=flat-square&logo=AzureDevOps&logoColor=007396)
+
 <!--
 **EdgyPanda/EdgyPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
