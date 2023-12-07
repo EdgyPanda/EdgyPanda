@@ -1,5 +1,5 @@
 # Hi there 👋
-Graduated from [Aarhus University](https://www.au.dk/) with a degree in **Mathematics-Economics** specializing in **Mathematical Finance**. I'm currently working as a Credit Risk Modeller for a bank in Denmark. 
+Graduated from [Aarhus University](https://www.au.dk/) with a degree in **Mathematics-Economics** specializing in **Mathematical Finance**. 
 
 My main interest are:
 
