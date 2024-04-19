@@ -3,20 +3,13 @@ Graduated from [Aarhus University](https://www.au.dk/) with a degree in **Mathem
 
 My main interest are:
 
-- Financial Econometrics
-- Time Series Analysis
-- Risk Management and Volatility Modelling
-- Portfolio Management
+- Financial Econometrics & Time Series Analysis
+- Volatility Modelling & Portfolio Management
 
 I'm also interested in applying my knowledge elsewhere such as the insurance industry, healthcare and IT. 
 
 
 - 🌱 My preferred language is **R**, but I also have working knowledge of **Python**.   
-
-
-<a href="https://github.com/EdgyPanda/EdgyPanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgyPanda&hide=java&langs_count=8,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 
 # ⚡ Technologies I'm familiar with (Tech stack):
