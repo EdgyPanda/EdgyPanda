@@ -6,11 +6,6 @@ My main interest are:
 - Financial Econometrics & Time Series Analysis
 - Volatility Modelling & Portfolio Management
 
-I'm also interested in applying my knowledge elsewhere such as the insurance industry, healthcare and IT. 
-
-
-- 🌱 My preferred language is **R**, but I also have working knowledge of **Python**.   
-
 
 # ⚡ Technologies I'm familiar with (Tech stack):
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
